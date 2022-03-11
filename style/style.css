@@ -13,8 +13,9 @@
     background-repeat: no-repeat;
 }
 
-.banner h1 {
+.banner div {
     display: flex;
+    flex-flow: column;
     background-color: rgba(0,0,0,.4);
     height: 100%;
     color: white;
